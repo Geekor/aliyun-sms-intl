@@ -1,0 +1,23 @@
+{
+    "name": "geekor/aliyun-sms-intl",
+    "description": "阿里云短信服务 PHP SDK 的 composer 封装",
+    "keywords": ["aliyun", "aliyun-sms-intl", "sdk"],
+    "require": {
+        "php": ">5.3",
+        "geekor/aliyun-sms-intl-core": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Geekor\\AliyunSmsIntl\\": "src/"
+        }
+    },
+
+    "license": "MIT",
+    "minimum-stability" : "dev",
+    "authors": [
+        {
+            "name": "Geekor",
+            "email": "geekor@163.com"
+        }
+    ]
+}
