@@ -3,7 +3,7 @@
     "description": "阿里云短信服务 PHP SDK 的 composer 封装",
     "keywords": ["aliyun", "aliyun-sms-intl", "sdk"],
     "require": {
-        "php": ">5.3",
+        "php": ">=5.5.0",
         "geekor/aliyun-sms-intl-core": "*"
     },
     "autoload": {
