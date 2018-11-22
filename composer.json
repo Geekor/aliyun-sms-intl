@@ -4,7 +4,7 @@
     "keywords": ["aliyun", "aliyun-sms-intl", "sdk"],
     "require": {
         "php": ">=5.5.0",
-        "geekor/aliyun-sms-intl-core": "*"
+        "geekor/aliyun-sms-intl-core": "~1.0"
     },
     "autoload": {
         "psr-4": {
@@ -13,7 +13,6 @@
     },
 
     "license": "MIT",
-    "minimum-stability" : "dev",
     "authors": [
         {
             "name": "Geekor",
